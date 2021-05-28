@@ -8,7 +8,7 @@
   <code>
     <a href="https://www.linkedin.com/in/swastik-raj-singh-80ba881b8/" title="LinkedIn Profile"><img width="22" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/linkedin.svg"> LinkedIn</a></code>
   <code><a href="https://www.hackerrank.com/swastikrajsingh1" title="HackerRank Profile"><img width="22" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/hackerrank.png"> HackerRank</a></code>
-  <code><a href="https://twitter.com/SwastikRajSing1" title="Twitter Profile"><img width="22" src="https://www.google.com/url?sa=i&url=http%3A%2F%2Fwww.pngall.com%2Ftwitter-png&psig=AOvVaw2i3ePWGdXEBnzr2WMUAeNP&ust=1622268187437000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCKjnspPa6_ACFQAAAAAdAAAAABAU"> Twitter</a></code>
+  <code><a href="https://twitter.com/SwastikRajSing1" title="Twitter Profile"><img width="22" src="https://github.com/Swastik1710/Swastik1710/blob/main/Images/twitter.png"> Twitter</a></code>
   <code><a href="https://stackoverflow.com/users/14692876/swastik1710" title="Stack Overflow Profile"><img width="22" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/stackoverflow.svg"> Stack Overflow</a></code>
   <code><a href="https://www.instagram.com/swastik_17.10/" title="Instagram Profile"><img width="22" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/instagram.svg"> Instagram</a></code>
 </h5>
