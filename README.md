@@ -14,7 +14,7 @@
 </h5>
 <br>
 <p align="center">
-  <h3>Hi, I'm Swastik Raj Singh, a Frontend Web Developer and an Open Source Contributor from Bangalore, India</h3>
+  <h3 align="center">Hi, I'm Swastik Raj Singh, a Frontend Web Developer and an Open Source Contributor from Bangalore, India</h3>
   <br>
   <br>
   🔬 I'm currently pursuing my bachelor's degree in Information Science and Engineering 
