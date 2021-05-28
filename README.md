@@ -6,11 +6,11 @@
 
 <h5 align="center">
   <code>
-    <a href="https://www.linkedin.com/in/swastik-raj-singh-80ba881b8/" title="LinkedIn Profile"><img width="22" src="https://github.com/Swastik1710/Swastik1710/blob/main/images/linkedin.svg"> LinkedIn</a></code>
-  <code><a href="https://www.hackerrank.com/swastikrajsingh1" title="HackerRank Profile"><img width="22" src="https://github.com/Swastik1710/Swastik1710/blob/main/images/hackerrank.png"> HackerRank</a></code>
+    <a href="https://www.linkedin.com/in/swastik-raj-singh-80ba881b8/" title="LinkedIn Profile"><img width="22" src="https://github.com/Swastik1710/Swastik1710/blob/main/Images/linkedin.svg"> LinkedIn</a></code>
+  <code><a href="https://www.hackerrank.com/swastikrajsingh1" title="HackerRank Profile"><img width="22" src="https://github.com/Swastik1710/Swastik1710/blob/main/Images/hackerrank.png"> HackerRank</a></code>
   <code><a href="https://twitter.com/SwastikRajSing1" title="Twitter Profile"><img width="22" src="https://github.com/Swastik1710/Swastik1710/blob/main/Images/twitter.png"> Twitter</a></code>
-  <code><a href="https://stackoverflow.com/users/14692876/swastik1710" title="Stack Overflow Profile"><img width="22" src="https://github.com/Swastik1710/Swastik1710/blob/main/images/stackoverflow.svg"> Stack Overflow</a></code>
-  <code><a href="https://www.instagram.com/swastik_17.10/" title="Instagram Profile"><img width="22" src="https://github.com/Swastik1710/Swastik1710/blob/main/images/instagram.svg"> Instagram</a></code>
+  <code><a href="https://stackoverflow.com/users/14692876/swastik1710" title="Stack Overflow Profile"><img width="22" src="https://github.com/Swastik1710/Swastik1710/blob/main/Images/stackoverflow.svg"> Stack Overflow</a></code>
+  <code><a href="https://www.instagram.com/swastik_17.10/" title="Instagram Profile"><img width="22" src="https://github.com/Swastik1710/Swastik1710/blob/main/Images/instagram.svg"> Instagram</a></code>
 </h5>
 <br>
 <p align="center">
@@ -32,22 +32,22 @@
 <h2 align="center">🔥 Languages, Frameworks, Tools & Abilities 🔥</h2>
 <br>
 <p align="center">
-  <code><img title="C" height="25" src="https://github.com/Swastik1710/Swastik1710/blob/main/images/c.svg"></code>
-  <code><img title="C++" height="25" src="https://github.com/Swastik1710/Swastik1710/blob/main/images/cpp.svg"></code>
-  <code><img title="Python" height="25" src="https://github.com/Swastik1710/Swastik1710/blob/main/images/python-original.svg"></code>
-  <code><img title="Javascript" height="25" src="https://github.com/Swastik1710/Swastik1710/blob/main/images/javascript.svg"></code>
-  <code><img title="Problem Solving" height="25" src="https://github.com/Swastik1710/Swastik1710/blob/main/images/problemSolving.png"></code>
-  <code><img title="HTML5" height="25" src="https://github.com/Swastik1710/Swastik1710/blob/main/images/html5.svg"></code>
-  <code><img title="CSS" height="25" src="https://github.com/Swastik1710/Swastik1710/blob/main/images/css.svg"></code>
-  <code><img title="SASS" height="25" src="https://github.com/Swastik1710/Swastik1710/blob/main/images/sass.svg"></code>
-  <code><img title="React" height="25" src="https://github.com/Swastik1710/Swastik1710/blob/main/images/react-original.svg"></code>
-  <code><img title="Git" height="25" src="https://github.com/Swastik1710/Swastik1710/blob/main/images/git-original.svg"></code>
-  <code><img title="Visual Studio Code" height="25" src="https://github.com/Swastik1710/Swastik1710/blob/main/images/vscode.png"></code>
-  <code><img title="JQuery" height="25" src="https://github.com/Swastik1710/Swastik1710/blob/main/images/jquery-original.svg"></code>
-  <code><img title="Java" height="25" src="https://github.com/Swastik1710/Swastik1710/blob/main/images/java-original.svg"></code>
-  <code><img title="GitHub" height="25" src="https://github.com/Swastik1710/Swastik1710/blob/main/images/github.svg"></code>
-  <code><img title="npm" height="25" src="https://github.com/Swastik1710/Swastik1710/blob/main/images/npm.svg"></code>
-  <code><img title="PHP" height="25" src="https://github.com/Swastik1710/Swastik1710/blob/main/images/php.svg"></code>
+  <code><img title="C" height="25" src="https://github.com/Swastik1710/Swastik1710/blob/main/Images/c.svg"></code>
+  <code><img title="C++" height="25" src="https://github.com/Swastik1710/Swastik1710/blob/main/Images/cpp.svg"></code>
+  <code><img title="Python" height="25" src="https://github.com/Swastik1710/Swastik1710/blob/main/Images/python-original.svg"></code>
+  <code><img title="Javascript" height="25" src="https://github.com/Swastik1710/Swastik1710/blob/main/Images/javascript.svg"></code>
+  <code><img title="Problem Solving" height="25" src="https://github.com/Swastik1710/Swastik1710/blob/main/Images/problemSolving.png"></code>
+  <code><img title="HTML5" height="25" src="https://github.com/Swastik1710/Swastik1710/blob/main/Images/html5.svg"></code>
+  <code><img title="CSS" height="25" src="https://github.com/Swastik1710/Swastik1710/blob/main/Images/css.svg"></code>
+  <code><img title="SASS" height="25" src="https://github.com/Swastik1710/Swastik1710/blob/main/Images/sass.svg"></code>
+  <code><img title="React" height="25" src="https://github.com/Swastik1710/Swastik1710/blob/main/Images/react-original.svg"></code>
+  <code><img title="Git" height="25" src="https://github.com/Swastik1710/Swastik1710/blob/main/Images/git-original.svg"></code>
+  <code><img title="Visual Studio Code" height="25" src="https://github.com/Swastik1710/Swastik1710/blob/main/Images/vscode.png"></code>
+  <code><img title="JQuery" height="25" src="https://github.com/Swastik1710/Swastik1710/blob/main/Images/jquery-original.svg"></code>
+  <code><img title="Java" height="25" src="https://github.com/Swastik1710/Swastik1710/blob/main/Images/java-original.svg"></code>
+  <code><img title="GitHub" height="25" src="https://github.com/Swastik1710/Swastik1710/blob/main/Images/github.svg"></code>
+  <code><img title="npm" height="25" src="https://github.com/Swastik1710/Swastik1710/blob/main/Images/npm.svg"></code>
+  <code><img title="PHP" height="25" src="https://github.com/Swastik1710/Swastik1710/blob/main/Images/php.svg"></code>
 </p>
 <hr>
 
