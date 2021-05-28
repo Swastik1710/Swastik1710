@@ -19,7 +19,7 @@
 <p align="center">
   🔬 I'm currently pursuing my bachelor's degree in Information Science and Engineering 
   <br>
-  💻 I love writing code and learn new things
+  💻 I love writing code and learning new things
   <br>
   📚 I’m currently learning how to build app clones using React
   <br>
