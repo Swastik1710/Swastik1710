@@ -13,10 +13,10 @@
   <code><a href="https://www.instagram.com/swastik_17.10/" title="Instagram Profile"><img width="22" src="https://github.com/Swastik1710/Swastik1710/blob/main/Images/instagram.svg"> Instagram</a></code>
 </h5>
 <br>
+ <h3 align="center">Hi, I'm Swastik Raj Singh, a Frontend Web Developer and an Open Source Contributor from Bangalore, India</h3>
+<br>
+<br>
 <p align="center">
-  <h3 align="center">Hi, I'm Swastik Raj Singh, a Frontend Web Developer and an Open Source Contributor from Bangalore, India</h3>
-  <br>
-  <br>
   🔬 I'm currently pursuing my bachelor's degree in Information Science and Engineering 
   <br>
   💻 I love writing code and learn new things
