@@ -45,8 +45,8 @@
   <code><img title="Java" height="25" src="https://github.com/Swastik1710/Swastik1710/blob/main/Images/java-original.svg"></code>
   <code><img title="GitHub" height="25" src="https://github.com/Swastik1710/Swastik1710/blob/main/Images/github.svg"></code>
   <code><img title="npm" height="25" src="https://github.com/Swastik1710/Swastik1710/blob/main/Images/npm.svg"></code>
-  <code><img title="Flutter" height="25" src="https://github.com/Swastik1710/Swastik1710/blob/main/Images/php.svg"></code>
-  <code><img title="Dart" height="25" src="https://github.com/Swastik1710/Swastik1710/blob/main/Images/php.svg"></code>
+  <code><img title="Flutter" height="25" src="https://github.com/Swastik1710/Swastik1710/blob/main/Images/dart.svg"></code>
+  <code><img title="Dart" height="25" src="https://github.com/Swastik1710/Swastik1710/blob/main/Images/flutter.svg"></code>
 </p>
 <hr>
 
